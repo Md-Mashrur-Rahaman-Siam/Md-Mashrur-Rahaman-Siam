@@ -1,3 +1,5 @@
+
+[![MasterHead](https://user-images.githubusercontent.com/95478989/198955082-6e78ebb5-e1e4-49f9-8d32-6e5af3984dcd.gif)](https://github.com/ajayaadhav10/ajayaadhav10)
 <h1 align="center">Hi 👋, I'm Md-Mashrur-Rahaman-Siam</h1>
 <h3 align="center">A illigeble perspective of decoding problems with numerous languages & studying advanced scheme of solving problems. Presently studying BSc in Computer Science & Engineering(CSE). BSc from American International University - Bangladesh. (Expected graduation on 2026) Completed HSC from Milestone School & College, Dhaka. Completed SSC from Milestone School & College, Dhaka. BSc from United International University - Bangladesh.(Expected graduation 2026).</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
