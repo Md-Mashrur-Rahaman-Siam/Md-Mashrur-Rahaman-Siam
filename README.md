@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **siamrahman2458@gmail.com**
 
-- ⚡ Fun fact **people thinks that coding is easy. They should try once.**
+- ⚡ Fun fact **People consider a CSE student as a computer mechanic.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
